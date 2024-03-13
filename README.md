@@ -28,7 +28,7 @@ Here are some examples demonstrating the usage of the command interpreter:
 1. Creating a new instance:
 ```(hbnb) create BaseModel```
 2. Showing details of an instance:
-````(hbnb) show BaseModel 1234-1234-1234```
+```(hbnb) show BaseModel 1234-1234-1234```
 3. Displaying all instances of a class:
 ```(hbnb) all BaseModel```
 4. Updating attributes of an instance:
